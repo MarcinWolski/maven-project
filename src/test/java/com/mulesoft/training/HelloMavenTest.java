@@ -17,7 +17,6 @@ public class HelloMavenTest extends FunctionalTestCase {
 //    protected String getConfigFile() {
 //        return "maven-project.xml";
 //    }
-//    
 //    @Test
 //    public void retrieveFlightsAddsAppropriateHeader() throws Exception {
 //      MuleEvent event = runFlow("retrieveFlights");
